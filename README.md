@@ -16,4 +16,5 @@
 </div>
 
 <br/><br/>
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloGuilheerm&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloGuilheerm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGuilheerm&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
